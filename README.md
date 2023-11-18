@@ -5,7 +5,7 @@ HOOKS Y LUEGO PASARLOS AL SERVIDOR COMO COMPONETES DE REACT (RCC Y RSC)
 - USO UNA "LIBRERIA" PARA REACT QUE ME AYUDA A DAR UN TIPO ALERTA, AQUI DEJO EL INSTALADOR (npm install sonner)
 - Está es la web "https://sonner.emilkowal.ski/" 
 - Tengo una carpeta llamada componentes, está usa React Client Components para el frontend y otros .tsx lo uso para React Server Components 
-- Por ultimo uso "carpetas dinamos para poder navegar y filtrar" esto gracias a que Next.js es un frame que se basa en
+- Por ultimo uso "carpetas dinamicas para poder navegar y filtrar" esto gracias a que Next.js es un framework que se basa en
 el enrutamiento de carpetas. Para las busquedas es conveniente usar esto debido a que puedes pasar el dato como parametro.
 
 ##  
