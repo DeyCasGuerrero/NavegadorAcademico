@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "tipo": "libro",
+    "nombre": "introducción a la programación",
+    "numero_paginas": 300,
+    "autor": "Juan Pérez",
+    "fecha_publicacion": "2022-01-01",
+    "rama": "Programación",
+    "contexto":"Amigos, no hay amigos, dijo Aristóteles. Suena contradictorio, pero lo que trata de decir es que. con un verdadero amigo. no tienes que ser amigable o Cortés Hay diferentes animaciones entre las que puede elegir, que van desde transiciones, gestos, desplazamientos, animaciones de entrada y salida y fotogramas clave, por mencionar algunas. "
+  },
+  {
+    "id": 2,
+    "tipo": "articulo",
+    "nombre": "avances en inteligencia artificial",
+    "numero_paginas": 10,
+    "autor": "Ana Rodríguez",
+    "fecha_publicacion": "2022-02-15",
+    "rama": "Inteligencia Artificial",
+    "contexto":"Amigos, no hay amigos, dijo Aristóteles. Suena contradictorio, pero lo que trata de decir es que. con un verdadero amigo. no tienes que ser amigable o Cortés Hay diferentes animaciones entre las que puede elegir, que van desde transiciones, gestos, desplazamientos, animaciones de entrada y salida y fotogramas clave, por mencionar algunas. "
+  },
+  {
+    "id": 3,
+    "tipo": "libro",
+    "nombre": "desarrollo web moderno",
+    "numero_paginas": 250,
+    "autor": "María Gómez",
+    "fecha_publicacion": "2021-12-10",
+    "rama": "Desarrollo Web"
+    ,
+    "contexto":"Amigos, no hay amigos, dijo Aristóteles. Suena contradictorio, pero lo que trata de decir es que. con un verdadero amigo. no tienes que ser amigable o Cortés Hay diferentes animaciones entre las que puede elegir, que van desde transiciones, gestos, desplazamientos, animaciones de entrada y salida y fotogramas clave, por mencionar algunas. "
+  },
+  {
+    "id": 4,
+    "tipo": "articulo",
+    "nombre": "machine learning en la medicina",
+    "numero_paginas": 15,
+    "autor": "Carlos Sánchez",
+    "fecha_publicacion": "2022-03-05",
+    "rama": "Medicina",
+    "contexto":"Amigos, no hay amigos, dijo Aristóteles. Suena contradictorio, pero lo que trata de decir es que. con un verdadero amigo. no tienes que ser amigable o Cortés Hay diferentes animaciones entre las que puede elegir, que van desde transiciones, gestos, desplazamientos, animaciones de entrada y salida y fotogramas clave, por mencionar algunas. "
+  },
+  {
+    "id": 5,
+    "tipo": "libro",
+    "nombre": "algoritmos y estructuras de datos",
+    "numero_paginas": 400,
+    "autor": "Luis Martínez",
+    "fecha_publicacion": "2021-11-20",
+    "rama": "Algoritmos",
+    "contexto":"Amigos, no hay amigos, dijo Aristóteles. Suena contradictorio, pero lo que trata de decir es que. con un verdadero amigo. no tienes que ser amigable o Cortés Hay diferentes animaciones entre las que puede elegir, que van desde transiciones, gestos, desplazamientos, animaciones de entrada y salida y fotogramas clave, por mencionar algunas. "
+  },
+  {
+    "id": 6,
+    "tipo": "articulo",
+    "nombre": "tendencias en desarrollo frontend",
+    "numero_paginas": 12,
+    "autor": "Elena Ramírez",
+    "fecha_publicacion": "2022-04-12",
+    "rama": "Desarrollo Web",
+    "contexto":"Amigos, no hay amigos, dijo Aristóteles. Suena contradictorio, pero lo que trata de decir es que. con un verdadero amigo. no tienes que ser amigable o Cortés Hay diferentes animaciones entre las que puede elegir, que van desde transiciones, gestos, desplazamientos, animaciones de entrada y salida y fotogramas clave, por mencionar algunas. "
+  },
+  {
+    "id": 7,
+    "tipo": "libro",
+    "nombre": "ciberseguridad: principios y prácticas",
+    "numero_paginas": 320,
+    "autor": "Pablo Fernández",
+    "fecha_publicacion": "2021-10-15",
+    "rama": "Seguridad Informática",
+    "contexto":"Amigos, no hay amigos, dijo Aristóteles. Suena contradictorio, pero lo que trata de decir es que. con un verdadero amigo. no tienes que ser amigable o Cortés Hay diferentes animaciones entre las que puede elegir, que van desde transiciones, gestos, desplazamientos, animaciones de entrada y salida y fotogramas clave, por mencionar algunas. "
+  },
+  {
+    "id": 8,
+    "tipo": "articulo",
+    "nombre": "avances en robótica industrial",
+    "numero_paginas": 18,
+    "autor": "Laura Jiménez",
+    "fecha_publicacion": "2022-06-08",
+    "rama": "Robótica",
+    "contexto":"Amigos, no hay amigos, dijo Aristóteles. Suena contradictorio, pero lo que trata de decir es que. con un verdadero amigo. no tienes que ser amigable o Cortés Hay diferentes animaciones entre las que puede elegir, que van desde transiciones, gestos, desplazamientos, animaciones de entrada y salida y fotogramas clave, por mencionar algunas. "
+  },
+  {
+    "id": 9,
+    "tipo": "libro",
+    "nombre": "programación orientada a objetos con python",
+    "numero_paginas": 280,
+    "autor": "Héctor Torres",
+    "fecha_publicacion": "2021-09-25",
+    "rama": "Programación",
+    "contexto":"Amigos, no hay amigos, dijo Aristóteles. Suena contradictorio, pero lo que trata de decir es que. con un verdadero amigo. no tienes que ser amigable o Cortés Hay diferentes animaciones entre las que puede elegir, que van desde transiciones, gestos, desplazamientos, animaciones de entrada y salida y fotogramas clave, por mencionar algunas. "
+  },
+  {
+    "id": 10,
+    "tipo": "articulo",
+    "nombre": "aplicaciones de blockchain en finanzas",
+    "numero_paginas": 14,
+    "autor": "Sofía Herrera",
+    "fecha_publicacion": "2022-07-20",
+    "rama": "Blockchain",
+    "contexto":"Amigos, no hay amigos, dijo Aristóteles. Suena contradictorio, pero lo que trata de decir es que. con un verdadero amigo. no tienes que ser amigable o Cortés Hay diferentes animaciones entre las que puede elegir, que van desde transiciones, gestos, desplazamientos, animaciones de entrada y salida y fotogramas clave, por mencionar algunas. "
+  },
+  {
+    "id": 11,
+    "tipo": "libro",
+    "nombre": "diseño responsivo para desarrolladores web",
+    "numero_paginas": 220,
+    "autor": "Javier Mendoza",
+    "fecha_publicacion": "2021-08-12",
+    "rama": "Desarrollo Web",
+    "contexto":"Amigos, no hay amigos, dijo Aristóteles. Suena contradictorio, pero lo que trata de decir es que. con un verdadero amigo. no tienes que ser amigable o Cortés Hay diferentes animaciones entre las que puede elegir, que van desde transiciones, gestos, desplazamientos, animaciones de entrada y salida y fotogramas clave, por mencionar algunas. "
+  }
+]
