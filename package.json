@@ -1,11 +1,11 @@
 {
-  "homepage": "http://DeyCasGuerrero.github.io/NavegadorAcademico",
+  "homepage":"http:/DeyCasGuerrero.github.io/NavegadorAcademico",
   "name": "navegador",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "predeploy": "npm run build",
+    "predeploy":"npm run build",
     "deploy": "gh-pages -d build",
     "build": "next build",
     "start": "next start",

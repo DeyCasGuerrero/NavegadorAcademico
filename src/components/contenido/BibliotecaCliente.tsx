@@ -1,14 +1,11 @@
 "use client"
 import styles from '@/app/page.module.css'
 import MyToast from './MyToast'
-import NavBar from '../navBar/ScriptsCliente'
 import Link from 'next/link'
 //RCC
 export default function Cliente({ post }) { //el post dará un tipo de variable any, eso es por que typescript es un languaje no dinamico
 
-    // const {
-    //     Animation, handleChange, handleKeyDown, inputValue, scrollingDown
-    // } = NavBar();
+
 
     return (
         <>
