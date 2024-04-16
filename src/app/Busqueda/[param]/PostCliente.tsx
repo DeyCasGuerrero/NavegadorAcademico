@@ -1,5 +1,5 @@
 import styles from '@/app/page.module.css'
-import MyToast from '@/components/contenido/MyToast'
+import MyToast from '@/components/common/MyToast'
 import Link from 'next/link'
 export default function PostClient({ post }) {
 

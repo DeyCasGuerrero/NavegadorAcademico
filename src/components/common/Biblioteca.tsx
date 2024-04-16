@@ -1,4 +1,4 @@
-import Libro from './interfaceBiblioteca';
+import {Libro} from '../../types/interfaceBiblioteca';
 import Datos from '@/components/contenido/BibliotecaCliente'
 
 async function loadLibros() {

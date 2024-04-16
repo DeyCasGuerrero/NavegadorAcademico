@@ -1,7 +1,7 @@
 
 import Image from 'next/image'
 import styles from './page.module.css'
-import Contenido from '../components/contenido/Biblioteca'
+import Contenido from '../components/common/Biblioteca'
 export default function Home() {
   return (
     <>

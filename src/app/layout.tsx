@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
-import Nav from '../components/navBar/Searching'
+import Nav from '../hooks/Searching'
 import {Toaster} from 'sonner'
 
 const inter = Inter({ subsets: ['latin'] })

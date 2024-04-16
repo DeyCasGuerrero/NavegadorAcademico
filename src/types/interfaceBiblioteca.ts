@@ -1,4 +1,4 @@
-interface Libro {
+export interface Libro {
     id: number;
     tipo: string;
     nombre: string;
@@ -8,5 +8,3 @@ interface Libro {
     rama: string;
     contexto:string;
 }
-
-export default Libro;

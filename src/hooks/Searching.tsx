@@ -1,6 +1,6 @@
 "use client"
 import styles from '../../app/page.module.css'
-import Eventos from '@/components/navBar/ScriptsCliente'
+import Eventos from '@/components/common/ScriptsCliente'
 export default function NavBar() {
 
     const{

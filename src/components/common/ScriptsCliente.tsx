@@ -23,7 +23,6 @@ export default function ScriptsCliente(){
     const [inputValue, setinputValue] = useState('');
     const router = useRouter();
 
-    const [Animation, setAnimation] = useState(false);
 
     const handleKeyDown = (event: React.KeyboardEvent<HTMLInputElement>) => {
         if (event.key === 'Enter') {
@@ -43,7 +42,6 @@ export default function ScriptsCliente(){
 
     return{
         scrollingDown,
-        Animation,
         handleKeyDown,
         handleChange,
         inputValue

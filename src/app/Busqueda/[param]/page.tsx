@@ -1,4 +1,4 @@
-import Libro from '../../../components/contenido/interfaceBiblioteca';
+import Libro from '../../../types/interfaceBiblioteca';
 import bibliotecaData from '../../../../data/biblioteca.json';
 import styles from '../../page.module.css';
 import PostClient from './PostCliente';
@@ -20,7 +20,7 @@ async function findSuggestion(word: string): Promise<Libro[]> {
 
 async function filterByParams(params: string, campo: 'nombre' | 'tipo' | 'rama') {
     const parametroBuscada = quitarAcentos(params.toLowerCase());
-    const respuesta: Libro[] = bibliotecaData.filter(item =>
+    const respuesta: Libro[] = await bibliotecaData.filter(item =>
         quitarAcentos(item[campo].toLowerCase()) === parametroBuscada);
     if (respuesta.length > 0) {
         return respuesta;

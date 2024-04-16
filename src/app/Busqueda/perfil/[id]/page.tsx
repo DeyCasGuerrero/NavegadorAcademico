@@ -1,10 +1,10 @@
-import Libro from '../../../../components/contenido/interfaceBiblioteca';
+import Libro from '../../../../types/interfaceBiblioteca';
 import bibliotecaData from '../../../../../data/biblioteca.json';
 import styles from '@/app/page.module.css'
 async function filterByID(id: number) {
     const parametroBuscada = Number(id);
     const respuesta: Libro | undefined = await bibliotecaData.find(item => item.id === parametroBuscada);
-    await new Promise((resolve) => setTimeout(resolve, 1000));
+    // await new Promise((resolve) => setTimeout(resolve, 1000));
     if (respuesta) {
         return respuesta;
     } else {
