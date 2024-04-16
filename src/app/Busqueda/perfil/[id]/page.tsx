@@ -1,4 +1,4 @@
-import Libro from '../../../../types/interfaceBiblioteca';
+import {Libro} from '@/types/interfaceBiblioteca';
 import bibliotecaData from '../../../../../data/biblioteca.json';
 import styles from '@/app/page.module.css'
 async function filterByID(id: number) {

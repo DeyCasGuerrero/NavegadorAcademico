@@ -1,4 +1,4 @@
-import Libro from '../../../types/interfaceBiblioteca';
+import {Libro} from '@/types/interfaceBiblioteca';
 import bibliotecaData from '../../../../data/biblioteca.json';
 import styles from '../../page.module.css';
 import PostClient from './PostCliente';
